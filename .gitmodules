@@ -55,3 +55,6 @@
 [submodule "StableLM"]
 	path = StableLM
 	url = https://github.com/Stability-AI/StableLM.git
+[submodule "gpt-neox"]
+	path = gpt-neox
+	url = https://github.com/EleutherAI/gpt-neox.git
