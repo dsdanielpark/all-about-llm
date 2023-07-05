@@ -52,3 +52,6 @@
 [submodule "Awesome-LLM"]
 	path = Awesome-LLM
 	url = https://github.com/Hannibal046/Awesome-LLM.git
+[submodule "StableLM"]
+	path = StableLM
+	url = https://github.com/Stability-AI/StableLM.git
