@@ -49,3 +49,6 @@
 [submodule "LMFlow"]
 	path = LMFlow
 	url = https://github.com/OptimalScale/LMFlow.git
+[submodule "Awesome-LLM"]
+	path = Awesome-LLM
+	url = https://github.com/Hannibal046/Awesome-LLM.git
