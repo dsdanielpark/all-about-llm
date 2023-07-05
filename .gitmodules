@@ -37,3 +37,9 @@
 [submodule "transformers"]
 	path = transformers
 	url = https://github.com/huggingface/transformers.git
+[submodule "hf-transllm"]
+	path = hf-transllm
+	url = https://github.com/dsdanielpark/hf-transllm.git
+[submodule "Open-LLM-datasets"]
+	path = Open-LLM-datasets
+	url = https://github.com/dsdanielpark/Open-LLM-datasets.git
