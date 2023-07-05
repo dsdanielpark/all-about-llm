@@ -1,0 +1,39 @@
+[submodule "langchain"]
+	path = langchain
+	url = https://github.com/hwchase17/langchain.git
+[submodule "dolly"]
+	path = dolly
+	url = https://github.com/databrickslabs/dolly.git
+[submodule "openai-cookbook"]
+	path = openai-cookbook
+	url = https://github.com/openai/openai-cookbook.git
+[submodule "lit-llama"]
+	path = lit-llama
+	url = https://github.com/Lightning-AI/lit-llama.git
+[submodule "open_llama"]
+	path = open_llama
+	url = https://github.com/openlm-research/open_llama.git
+[submodule "stanford_alpaca"]
+	path = stanford_alpaca
+	url = https://github.com/tatsu-lab/stanford_alpaca.git
+[submodule "LoRA"]
+	path = LoRA
+	url = https://github.com/microsoft/LoRA.git
+[submodule "privateGPT"]
+	path = privateGPT
+	url = https://github.com/imartinez/privateGPT.git
+[submodule "llama"]
+	path = llama
+	url = https://github.com/facebookresearch/llama.git
+[submodule "qlora"]
+	path = qlora
+	url = https://github.com/artidoro/qlora.git
+[submodule "FastChat"]
+	path = FastChat
+	url = https://github.com/lm-sys/FastChat.git
+[submodule "peft"]
+	path = peft
+	url = https://github.com/huggingface/peft.git
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers.git
