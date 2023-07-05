@@ -43,3 +43,9 @@
 [submodule "Open-LLM-datasets"]
 	path = Open-LLM-datasets
 	url = https://github.com/dsdanielpark/Open-LLM-datasets.git
+[submodule "PaLM"]
+	path = PaLM
+	url = https://github.com/conceptofmind/PaLM.git
+[submodule "LMFlow"]
+	path = LMFlow
+	url = https://github.com/OptimalScale/LMFlow.git
