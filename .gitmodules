@@ -58,3 +58,9 @@
 [submodule "gpt-neox"]
 	path = gpt-neox
 	url = https://github.com/EleutherAI/gpt-neox.git
+[submodule "metaseq"]
+	path = metaseq
+	url = https://github.com/facebookresearch/metaseq.git
+[submodule "fairseq"]
+	path = fairseq
+	url = https://github.com/facebookresearch/fairseq.git
