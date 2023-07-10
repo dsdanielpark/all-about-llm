@@ -64,3 +64,9 @@
 [submodule "fairseq"]
 	path = fairseq
 	url = https://github.com/facebookresearch/fairseq.git
+[submodule "alpaca-lora"]
+	path = alpaca-lora
+	url = https://github.com/tloen/alpaca-lora.git
+[submodule "trl"]
+	path = trl
+	url = https://github.com/lvwerra/trl.git
