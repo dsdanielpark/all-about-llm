@@ -70,3 +70,9 @@
 [submodule "trl"]
 	path = trl
 	url = https://github.com/lvwerra/trl.git
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/vllm-project/vllm.git
+[submodule "EasyLM"]
+	path = EasyLM
+	url = https://github.com/young-geng/EasyLM.git
