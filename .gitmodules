@@ -82,3 +82,6 @@
 [submodule "gptq"]
 	path = gptq
 	url = https://github.com/IST-DASLab/gptq.git
+[submodule "korean-open-llm-datasets-chain"]
+	path = korean-open-llm-datasets-chain
+	url = https://github.com/dsdanielpark/korean-open-llm-datasets-chain.git
