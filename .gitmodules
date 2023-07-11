@@ -76,3 +76,6 @@
 [submodule "EasyLM"]
 	path = EasyLM
 	url = https://github.com/young-geng/EasyLM.git
+[submodule "korean-open-llm-datasets"]
+	path = korean-open-llm-datasets
+	url = https://github.com/dsdanielpark/korean-open-llm-datasets.git
