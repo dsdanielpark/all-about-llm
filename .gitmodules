@@ -85,3 +85,6 @@
 [submodule "axolotl"]
 	path = axolotl
 	url = https://github.com/OpenAccess-AI-Collective/axolotl.git
+[submodule "flash-attention"]
+	path = flash-attention
+        url = https://github.com/HazyResearch/flash-attention
