@@ -88,3 +88,6 @@
 [submodule "flash-attention"]
 	path = flash-attention
         url = https://github.com/HazyResearch/flash-attention
+[submodule "LLM-eval-survey"]
+	path = LLM-eval-survey
+        url = https://github.com/MLGroupJLU/LLM-eval-survey
