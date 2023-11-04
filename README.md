@@ -52,8 +52,8 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 | WizardLM | 2023-05-26 | WizardLM | Non-commercial | [Link](#) |
 | Platypus | 2023-08-14 | - | Non-commercial | [Link](https://arxiv.org/abs/2308.07317) |
 | Qwen | 2023-08-28 | Alibaba Cloud | commercial | [Link](https://arxiv.org/abs/2308.07317) |
-| Zephyr | 2023-08-28 | - | Apache | [Link](https://github.com/zephyrproject-rtos/zephyr/blob/main/LICENSE) |
-| Mistral | 2023-08-28 | Mistral AI | Permissive commercial | [Link](https://mistral.ai) |
+| Mistral | 2023-10-10 | Mistral AI | Permissive commercial | [Link](https://mistral.ai) |
+| Zephyr | 2023-10-25 | - | Apache | [Link](https://github.com/zephyrproject-rtos/zephyr) |
 
 
 
