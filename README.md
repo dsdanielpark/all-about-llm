@@ -48,7 +48,7 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 | Vicuna | 2023-03-30 | UC Berkeley, CMU, Stanford, MBZUAI, UCSD | Noncommercial | [Link](#) |
 | WizardLM | 2023-05-26 | WizardLM | Noncommercial | [Link](#) |
 
-Please replace the "[Link](#)" placeholders with the actual URLs or references.
+
 
 ## LLM Model Evaluation
 
