@@ -1,7 +1,10 @@
 Development Status :: 3 - Alpha <br>
 *Copyright (c) 2023 MinWoo Park*
 
-# All About LLM [@dsdanielpark](https://github.com/dsdanielpark)
+[![](https://img.shields.io/badge/Language-English-lightgrey)](https://github.com/dsdanielpark/kor-sharegpt-deepl-alpaca) [![](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](https://github.com/dsdanielpark/kor-sharegpt-deepl-alpaca/blob/main/documents/README_KOR.md)
+
+
+# All About LLM [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
  I collect and organize various resources related to large language models. Additionally, I work on documenting this information.
 
  I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur.
