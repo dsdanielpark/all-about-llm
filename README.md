@@ -1,7 +1,7 @@
 Development Status :: 3 - Alpha <br>
 *Copyright (c) 2023 MinWoo Park*
 
-[![](https://img.shields.io/badge/Language-English-lightgrey)](https://github.com/dsdanielpark/kor-sharegpt-deepl-alpaca) [![](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](https://github.com/dsdanielpark/kor-sharegpt-deepl-alpaca/blob/main/documents/README_KOR.md)
+[![](https://img.shields.io/badge/Language-English-lightgrey)](https://github.com/dsdanielpark/all-about-llm) [![](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](https://github.com/dsdanielpark/all-about-llm/blob/main/documents/README_KOR.md)
 
 
 # All About LLM [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
