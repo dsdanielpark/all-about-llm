@@ -9,7 +9,9 @@ Development Status :: 3 - Alpha <br>
 
  I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur.
 
-Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table to make it fit within the width of the markdown. Here is the modified table:
+ 
+This repository contains only some of the models required for research, so please refer to other repositories for detailed information and updates.
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Leaderboards
 
