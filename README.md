@@ -21,7 +21,7 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 
 ## Open Source LLMs
 
-| LLM | Initial Release | Developer | License | Reference |
+| LLM | Initial Release | Developer | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Alpaca | 2023-03-13 | Stanford | Noncommercial | [Link](#) |
 | BLOOM | 2022-07-06 | Hugging Face | Open RAIL-M v1 | [Link](#) |
