@@ -49,7 +49,12 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 | StableLM | 2023-04-19 | Stability AI | CC BY-SA 4.0 | [Link](#) |
 | StableVicuna | 2023-04-28 | Stability AI | Noncommercial | [Link](#) |
 | Vicuna | 2023-03-30 | UC Berkeley, CMU, Stanford, MBZUAI, UCSD | Noncommercial | [Link](#) |
-| WizardLM | 2023-05-26 | WizardLM | Noncommercial | [Link](#) |
+| WizardLM | 2023-05-26 | WizardLM | Non-commercial | [Link](#) |
+| Platypus | 2023-08-14 | - | Non-commercial | [Link](https://arxiv.org/abs/2308.07317) |
+| Qwen | 2023-08-28 | Alibaba Cloud | commercial | [Link](https://arxiv.org/abs/2308.07317) |
+| Zephyr | 2023-08-28 | - | Apache | [Link](https://github.com/zephyrproject-rtos/zephyr/blob/main/LICENSE) |
+| Mistral | 2023-08-28 | Mistral AI | Permissive commercial | [Link](https://mistral.ai) |
+
 
 
 
@@ -93,3 +98,4 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 | 34 | HumanEval code generation | Comprises 164 Python programming challenges where the model is presented with the method signature and docstring comment for a Python program and is expected to complete the program. The resulting code's functional correctness is tested on a number of input/output pairs. | 2022 | 0 | 0% | [HumanEval code generation](https://paperswithcode.com/sota/code-generation-on-humaneval) |
 | 35 | AI2 Reasoning Challenge (25-shot) | Consists of grade-school science questions. | - | 25 | - | [AI2 Reasoning Challenge](https://allenai.org/data/arc) |
 | 36 | TruthfulQA (0-shot) | A test to measure a model's propensity to reproduce falsehoods commonly found online. Note: TruthfulQA in the Harness is actually a minima 6-shot task, as it is prepended by 6 examples systematically, even when launched using 0 for the number of few-shot examples. | - | 0 | - | [TruthfulQA](https://github.com/sylinrl/TruthfulQA) |
+| 37 | AGIEval | AGIEval is a new benchmark designed to assess foundation models in human-centric standardized exams. GPT-4, ChatGPT, and Text-Davinci-003 perform impressively, exceeding human performance in SAT, LSAT, and math competitions. However, they struggle with tasks requiring complex reasoning or domain-specific knowledge. This benchmark provides insights into enhancing general capabilities by focusing on human cognition and decision-making tasks. . | - | - | - | [AGIEval](https://github.com/ruixiangcui/AGIEval) |
