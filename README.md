@@ -16,17 +16,6 @@ Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table t
 | Chatbot Arena (LMSYS Org) | Offers resources and a leaderboard for LLM performance. | [Leaderboard](#) |
 | Open LLM Leaderboard (Hugging Face) | Features a leaderboard for LLMs. | [Link](#) |
 
-## Commercial LLMs
-
-| LLM | Initial Release | Developer | Reference |
-| --- | --- | --- | --- |
-| Bard | 2023-03-21 | Google | [Link](#) |
-| ChatGPT | 2022-11-30 | OpenAI | [Link](#) |
-| Claude | 2023-03-14 | Anthropic | [Link](#) |
-| Cohere | 2021-11-15 | Cohere | [Link](#) |
-| Jurassic | 2021-08-11 | AI21 | [Link](#) |
-| Inflection-1 | 2023-06-22 | Inflection AI | [Link](#) |
-
 ## Open Source LLMs
 
 | LLM | Initial Release | Developer | License | Reference |
