@@ -6,6 +6,8 @@ Development Status :: 3 - Alpha <br>
 
  I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur.
 
+Certainly, I have removed the "Instruct / RLHF" columns and adjusted the table to make it fit within the width of the markdown. Here is the modified table:
+
 ## Leaderboards
 
 | Leaderboard Name | Description | Reference |
@@ -16,48 +18,48 @@ Development Status :: 3 - Alpha <br>
 
 ## Commercial LLMs
 
-| LLM | Initial Release | Developer | Instruct / RLHF | Reference |
-| --- | --- | --- | --- | --- |
-| Bard | 2023-03-21 | Google | - | [Link](#) |
-| ChatGPT | 2022-11-30 | OpenAI | - | [Link](#) |
-| Claude | 2023-03-14 | Anthropic | - | [Link](#) |
-| Cohere | 2021-11-15 | Cohere | - | [Link](#) |
-| Jurassic | 2021-08-11 | AI21 | - | [Link](#) |
-| Inflection-1 | 2023-06-22 | Inflection AI | - | [Link](#) |
+| LLM | Initial Release | Developer | Reference |
+| --- | --- | --- | --- |
+| Bard | 2023-03-21 | Google | [Link](#) |
+| ChatGPT | 2022-11-30 | OpenAI | [Link](#) |
+| Claude | 2023-03-14 | Anthropic | [Link](#) |
+| Cohere | 2021-11-15 | Cohere | [Link](#) |
+| Jurassic | 2021-08-11 | AI21 | [Link](#) |
+| Inflection-1 | 2023-06-22 | Inflection AI | [Link](#) |
 
 ## Open Source LLMs
 
-| LLM | Initial Release | Developer | License | Instruct / RLHF | Reference |
-| --- | --- | --- | --- | --- | --- |
-| Alpaca | 2023-03-13 | Stanford | Noncommercial | - | [Link](#) |
-| BLOOM | 2022-07-06 | Hugging Face | Open RAIL-M v1 | - | [Link](#) |
-| BLOOMChat | 2023-05-19 | SambaNova | Apache 2.0 | - | [Link](#) |
-| Cerebras-GPT | 2023-03-28 | Cerebras | Apache 2.0 | - | [Link](#) |
-| Dolly | 2023-03-24 | Databricks | MIT | - | [Link](#) |
-| Falcon | 2023-05-23 | TII | Apache 2.0 | - | [Link](#) |
-| FastChat | 2023-04-28 | LMSYS | Apache 2.0 | - | [Link](#) |
-| FLAN-T5 | 2022-12-06 | Google | Apache 2.0 | - | [Link](#) |
-| FLAN-UL2 | 2023-03-03 | Google | Apache 2.0 | - | [Link](#) |
-| GPT-J | 2021-06-09 | EleutherAI | Apache 2.0 | - | [Link](#) |
-| GPT4All | 2023-03-26 | Nomic AI | Varies | - | [Link](#) |
-| GPTNeo | 2021-03-21 | EleutherAI, Together | Apache 2.0 | - | [Link](#) |
-| Guanaco | 2023-05-23 | UW NLP | Noncommercial | - | [Link](#) |
-| Koala | 2023-04-03 | BAIR | Noncommercial | - | [Link](#) |
-| LLaMA | 2023-02-24 | Meta | Noncommercial | - | [Link](#) |
-| Llama 2 | 2023-07-18 | Meta | Custom (Commercial OK) | - | [Link](#) |
-| MPT | 2023-05-05 | MosaicML | Apache 2.0 | - | [Link](#) |
-| OpenAssistant | 2023-04-15 | LAION | Varies | - | [Link](#) |
-| OpenLLaMA | 2023-04-28 | OpenLM Research | Apache 2.0 | - | [Link](#) |
-| OPT | 2022-05-03 | Meta | NA | - | [Link](#) |
-| Orca | 2023-06-05 | Microsoft | Noncommercial | - | [Link](#) |
-| Pythia | 2023-02-13 | EleutherAI, Together | Apache 2.0 | - | [Link](#) |
-| RedPajama-INCITE | 2023-05-05 | Together | Apache 2.0 | - | [Link](#) |
-| StableLM | 2023-04-19 | Stability AI | CC BY-SA 4.0 | - | [Link](#) |
-| StableVicuna | 2023-04-28 | Stability AI | Noncommercial | - | [Link](#) |
-| Vicuna | 2023-03-30 | UC Berkeley, CMU, Stanford, MBZUAI, UCSD | Noncommercial | - | [Link](#) |
-| WizardLM | 2023-05-26 | WizardLM | Noncommercial | - | [Link](#) |
+| LLM | Initial Release | Developer | License | Reference |
+| --- | --- | --- | --- | --- |
+| Alpaca | 2023-03-13 | Stanford | Noncommercial | [Link](#) |
+| BLOOM | 2022-07-06 | Hugging Face | Open RAIL-M v1 | [Link](#) |
+| BLOOMChat | 2023-05-19 | SambaNova | Apache 2.0 | [Link](#) |
+| Cerebras-GPT | 2023-03-28 | Cerebras | Apache 2.0 | [Link](#) |
+| Dolly | 2023-03-24 | Databricks | MIT | [Link](#) |
+| Falcon | 2023-05-23 | TII | Apache 2.0 | [Link](#) |
+| FastChat | 2023-04-28 | LMSYS | Apache 2.0 | [Link](#) |
+| FLAN-T5 | 2022-12-06 | Google | Apache 2.0 | [Link](#) |
+| FLAN-UL2 | 2023-03-03 | Google | Apache 2.0 | [Link](#) |
+| GPT-J | 2021-06-09 | EleutherAI | Apache 2.0 | [Link](#) |
+| GPT4All | 2023-03-26 | Nomic AI | Varies | [Link](#) |
+| GPTNeo | 2021-03-21 | EleutherAI, Together | Apache 2.0 | [Link](#) |
+| Guanaco | 2023-05-23 | UW NLP | Noncommercial | [Link](#) |
+| Koala | 2023-04-03 | BAIR | Noncommercial | [Link](#) |
+| LLaMA | 2023-02-24 | Meta | Noncommercial | [Link](#) |
+| Llama 2 | 2023-07-18 | Meta | Custom (Commercial OK) | [Link](#) |
+| MPT | 2023-05-05 | MosaicML | Apache 2.0 | [Link](#) |
+| OpenAssistant | 2023-04-15 | LAION | Varies | [Link](#) |
+| OpenLLaMA | 2023-04-28 | OpenLM Research | Apache 2.0 | [Link](#) |
+| OPT | 2022-05-03 | Meta | NA | [Link](#) |
+| Orca | 2023-06-05 | Microsoft | Noncommercial | [Link](#) |
+| Pythia | 2023-02-13 | EleutherAI, Together | Apache 2.0 | [Link](#) |
+| RedPajama-INCITE | 2023-05-05 | Together | Apache 2.0 | [Link](#) |
+| StableLM | 2023-04-19 | Stability AI | CC BY-SA 4.0 | [Link](#) |
+| StableVicuna | 2023-04-28 | Stability AI | Noncommercial | [Link](#) |
+| Vicuna | 2023-03-30 | UC Berkeley, CMU, Stanford, MBZUAI, UCSD | Noncommercial | [Link](#) |
+| WizardLM | 2023-05-26 | WizardLM | Noncommercial | [Link](#) |
 
-
+Please replace the "[Link](#)" placeholders with the actual URLs or references.
 
 ## LLM Model Evaluation
 
