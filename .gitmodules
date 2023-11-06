@@ -123,3 +123,6 @@
 [submodule "exllama"]
 	path = exllama
 	url = https://github.com/turboderp/exllama.git
+[submodule "autotrain-advanced"]
+	path = autotrain-advanced
+	url = https://github.com/huggingface/autotrain-advanced
