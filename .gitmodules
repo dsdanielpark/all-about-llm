@@ -126,3 +126,12 @@
 [submodule "autotrain-advanced"]
 	path = autotrain-advanced
 	url = https://github.com/huggingface/autotrain-advanced
+[submodule "alignment-handbook"]
+	path = alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
+[submodule "openai-python"]
+	path = openai-python
+	url = https://github.com/openai/openai-python
+[submodule "DeepSpeed-MII"]
+	path = DeepSpeed-MII
+	url = https://github.com/microsoft/DeepSpeed-MII.git
