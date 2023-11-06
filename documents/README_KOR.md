@@ -6,7 +6,7 @@ Development Status :: 3 - Alpha <br>
 
 
 # All About LLM [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
-개인적인 용도로 특정 목적의 연구와 LLM 레포지토리를 확인하기 위한 용도로 사용하는 저장소 입니다. 전체 서브 모듈의 리스트를 확인할 수 있도록, 의도적으로 레포지토리를 분류하는 폴더를 사용하지 않았으며, [git submodule 파일](https://github.com/dsdanielpark/all-about-llm/blob/main/.gitmodules)에서 전체 서브 모듈의 목록을 확인하실 수 있습니다.
+특정 목적의 연구와 LLM 레포지토리를 확인하기 위한 용도로 사용하는 저장소입니다. 전체 서브 모듈의 리스트를 확인할 수 있도록, 의도적으로 레포지토리를 분류하는 폴더를 사용하지 않았으며, [git submodule 파일](https://github.com/dsdanielpark/all-about-llm/blob/main/.gitmodules)에서 전체 서브 모듈의 목록을 확인하실 수 있습니다.
 
 ## Leaderboards
 
