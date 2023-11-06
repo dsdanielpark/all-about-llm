@@ -105,3 +105,21 @@
 [submodule "Qwen"]
 	path = Qwen
 	url = https://github.com/QwenLM/Qwen.git
+[submodule "mistral-src"]
+	path = mistral-src
+	url = https://github.com/mistralai/mistral-src.git
+[submodule "tiktoken"]
+	path = tiktoken
+	url = https://github.com/openai/tiktoken.git
+[submodule "open-llm-datasets"]
+	path = open-llm-datasets
+	url = https://github.com/dsdanielpark/open-llm-datasets.git
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/dsdanielpark/awesome.git
+[submodule "milvus"]
+	path = milvus
+	url = https://github.com/milvus-io/milvus.git
+[submodule "exllama"]
+	path = exllama
+	url = https://github.com/turboderp/exllama.git
