@@ -99,3 +99,9 @@
 [submodule "RedPajama-Data"]
 	path = RedPajama-Data
 	url = https://github.com/togethercomputer/RedPajama-Data
+[submodule "LLaVA"]
+	path = LLaVA
+	url = https://github.com/haotian-liu/LLaVA
+[submodule "Qwen"]
+	path = Qwen
+	url = https://github.com/QwenLM/Qwen.git
