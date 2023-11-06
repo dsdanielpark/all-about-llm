@@ -13,7 +13,7 @@ Development Status :: 3 - Alpha <br>
 This repository contains only some of the models required for research, so please refer to other repositories for detailed information and updates.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
 
-# How to use
+## How to use
 ```
 $ git clone https://github.com/dsdanielpark/all-about-llm.git
 $ cd all-about-llm
