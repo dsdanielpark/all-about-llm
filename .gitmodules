@@ -96,3 +96,6 @@
 [submodule "llama2.c"]
 	path = llama2.c
     url = https://github.com/karpathy/llama2.c
+[submodule "RedPajama-Data"]
+	path = RedPajama-Data
+	url = https://github.com/togethercomputer/RedPajama-Data
