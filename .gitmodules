@@ -80,19 +80,19 @@
 	url = https://github.com/OpenAccess-AI-Collective/axolotl.git
 [submodule "flash-attention"]
 	path = flash-attention
-        url = https://github.com/HazyResearch/flash-attention
+    url = https://github.com/HazyResearch/flash-attention
 [submodule "LLM-eval-survey"]
 	path = LLM-eval-survey
         url = https://github.com/MLGroupJLU/LLM-eval-survey
 [submodule "llama.cpp"]
 	path = llama.cpp
-        url = https://github.com/ggerganov/llama.cpp
+    url = https://github.com/ggerganov/llama.cpp
 [submodule "llama-cpp-python"]
 	path = llama-cpp-python
-        url = https://github.com/abetlen/llama-cpp-python
+    url = https://github.com/abetlen/llama-cpp-python
 [submodule "ggml"]
 	path = ggml
-        url = https://github.com/ggerganov/ggml
+    url = https://github.com/ggerganov/ggml
 [submodule "llama2.c"]
 	path = llama2.c
-        url = https://github.com/karpathy/llama2.c
+    url = https://github.com/karpathy/llama2.c
