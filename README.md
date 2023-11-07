@@ -4,7 +4,8 @@ Development Status :: 3 - Alpha <br>
 [![](https://img.shields.io/badge/Language-English-lightgrey)](https://github.com/dsdanielpark/all-about-llm) [![](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](https://github.com/dsdanielpark/all-about-llm/blob/main/documents/README_KOR.md)
 
 
-# All About LLM [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
+# All About LLM 
+Cutrated by [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
 
  I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur. To allow for viewing a list of all submodules, I intentionally do not use folders for organizing the repository. Additionally, you can view the complete list in the [git submodule file.](https://github.com/dsdanielpark/all-about-llm/blob/main/.gitmodules)
  
