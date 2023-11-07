@@ -5,10 +5,8 @@ Development Status :: 3 - Alpha <br>
 
 
 # All About LLM [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
- I collect and organize various resources related to large language models. Additionally, I work on documenting this information.
 
- I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur.
-
+ I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur. To allow for viewing a list of all submodules, I intentionally do not use folders for organizing the repository. Additionally, you can view the complete list in the [git submodule file.](https://github.com/dsdanielpark/all-about-llm/blob/main/.gitmodules)
  
 This repository contains only some of the models required for research, so please refer to other repositories for detailed information and updates.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
