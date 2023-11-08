@@ -23,8 +23,8 @@ $ git submodule update --init --recursive
 
 | Leaderboard Name | Description | 
 | --- | --- | 
-| [AlpacaEval Leaderboard](#) | Provides evaluation metrics for LLMs. |  
-| [Chatbot Arena (LMSYS Org)](#) | Offers resources and a leaderboard for LLM performance. | 
+| [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) | Provides evaluation metrics for LLMs. |  
+| [Chatbot Arena (LMSYS Org)](https://chat.lmsys.org/) | Offers resources and a leaderboard for LLM performance. | 
 | [Open LLM Leaderboard (Hugging Face)](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Features a leaderboard for LLMs. |
 | [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) | Gathering benchmark spaces on the hub (beyond the Open LLM Leaderboard). |
 | [MTEB Leaderboard](#) | Massive Text Embedding Benchmark (MTEB) Leaderboard. |
@@ -64,13 +64,13 @@ You can replace the `#` with the actual URLs where the leaderboards are hosted i
 | [FastChat](#) | 2023-04-28 | LMSYS | Apache 2.0 |
 | [StableVicuna](#) | 2023-04-28 | Stability AI | Noncommercial |
 | [BLOOMChat](#) | 2023-05-19 | SambaNova | Apache 2.0 |
-| [MPT](#) | 2023-05-05 | MosaicML | Apache 2.0 |
-| [RedPajama-INCITE](#) | 2023-05-05 | Together | Apache 2.0 |
-| [Falcon](#) | 2023-05-23 | TII | Apache 2.0 |
-| [Guanaco](#) | 2023-05-23 | UW NLP | Noncommercial |
-| [WizardLM](#) | 2023-05-26 | WizardLM | Non-commercial |
-| [Orca](#) | 2023-06-05 | Microsoft | Noncommercial |
-| [Llama 2](#) | 2023-07-18 | Meta | Custom (Commercial OK) |
+| [MPT](https://www.mosaicml.com/blog/mpt-7b) | 2023-05-05 | MosaicML | Apache 2.0 |
+| [RedPajama](https://github.com/togethercomputer/RedPajama-Data) | 2023-05-05 | Together | Apache 2.0 |
+| [Falcon](https://falconllm.tii.ae/) | 2023-05-23 | TII | Apache 2.0 |
+| [Guanaco](https://guanaco-model.github.io/) | 2023-05-23 | UW NLP | Noncommercial |
+| [WizardLM](https://huggingface.co/WizardLM/WizardLM-70B-V1.0) | 2023-05-26 | WizardLM | Non-commercial |
+| [Orca](https://huggingface.co/Open-Orca/OpenOrca-Preview1-13B) | 2023-06-05 | Microsoft | Noncommercial |
+| [Llama 2](https://ai.meta.com/llama/) | 2023-07-18 | Meta | Custom (Commercial OK) |
 | [Platypus](https://arxiv.org/abs/2308.07317) | 2023-08-14 | - | Non-commercial |
 | [Qwen](https://arxiv.org/abs/2308.07317) | 2023-08-28 | Alibaba Cloud | commercial |
 | [Mistral](https://mistral.ai) | 2023-10-10 | Mistral AI | Permissive commercial |
