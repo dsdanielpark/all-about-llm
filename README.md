@@ -17,7 +17,7 @@ Cutrated by [@dsdanielpark Seoul, Korea](https://github.com/dsdanielpark)
 
  I curated the comments as a sub-module to see how active the activity is while syncing forks. Therefore, this repository serves the purpose of curating comments not only for some experiments but mostly for self-checking, where I can see on my own where and when commits and pull requests frequently occur. To allow for viewing a list of all submodules, I intentionally do not use folders for organizing the repository. Additionally, you can view the complete list in the [git submodule file.](https://github.com/dsdanielpark/all-about-llm/blob/main/.gitmodules)
  
-This repository contains only some of the models required for research, so please refer to other repositories for detailed information and updates.
+This repository contains only some of the models required for _personal_ research, so please refer to other repositories for detailed information and updates.
 
 
 ## How to use
