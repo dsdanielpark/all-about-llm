@@ -70,8 +70,6 @@ You can replace the `#` with the actual URLs where the leaderboards are hosted i
 
 
 
-## LLM Model Evaluation
-
 
 ## LLM Model Evaluation
 
