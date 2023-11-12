@@ -89,7 +89,8 @@ $ git submodule update --init --recursive
 <br>
 
 ## LLM Model Evaluation
-
+- [Harness Task Table](https://github.com/EleutherAI/lm-evaluation-harness/blob/master/docs/task_table.md)
+- [Harness Task](https://github.com/EleutherAI/lm-evaluation-harness/tree/master/lm_eval/tasks)
 
 | No. | Task | Description | Year | Few-shot Examples | Random Baseline Accuracy |
 | --- | --- | --- | --- | --- | --- |
