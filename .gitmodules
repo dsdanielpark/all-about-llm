@@ -129,8 +129,6 @@
 [submodule "alignment-handbook"]
 	path = alignment-handbook
 	url = https://github.com/huggingface/alignment-handbook.git
-<<<<<<< HEAD
-=======
 [submodule "openai-python"]
 	path = openai-python
 	url = https://github.com/openai/openai-python
@@ -140,4 +138,3 @@
 [submodule "LLMDataHub"]
 	path = LLMDataHub
 	url = https://github.com/Zjh-819/LLMDataHub
->>>>>>> bdfe6e96f39aeb1408f8b3749015021667e445b1
