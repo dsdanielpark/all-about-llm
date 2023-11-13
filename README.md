@@ -129,7 +129,7 @@ $ git submodule update --init --recursive
 | 33 | [BoolQ](https://paperswithcode.com/paper/boolq-exploring-the-surprising-difficulty-of) | Contains 3,270 short passages on a diverse range of subjects followed by yes/no questions in multiple-choice format. | 2019 | 10 | ~50% |
 | 34 | [HumanEval code generation](https://paperswithcode.com/sota/code-generation-on-humaneval) | Comprises 164 Python programming challenges where the model is presented with the method signature and docstring comment for a Python program and is expected to complete the program. The resulting code's functional correctness is tested on a number of input/output pairs. | 2022 | 0 | 0% |
 | 35 | [AI2 Reasoning Challenge (25-shot)](https://allenai.org/data/arc) | Consists of grade-school science questions. | / | 25 | / |
-| 36 | [TruthfulQA (0-shot)](https://github.com/sylinrl/TruthfulQA) | A test to measure a model's propensity to reproduce falsehoods commonly found online. Note: TruthfulQA in the Harness is actually a minima 6-shot task, as it is prepended by 6 examples systematically, even when launched using 0 for the number of few-shot examples. | / | 0 | / |
+| 36 | [TruthfulQA (0-shot)](https://github.com/sylinrl/TruthfulQA) | A test to measure a model's propensity to reproduce falsehoods commonly found online. Note: TruthfulQA in the Harness is actually a minima 6-shot task, as it is prepended by 6 [examples](https://raw.githubusercontent.com/sylinrl/TruthfulQA/main/data/finetune_truth.jsonl) systematically, even when launched using 0 for the number of few-shot examples. | / | 0 | / |
 | 37 | [AGIEval](https://github.com/ruixiangcui/AGIEval) | AGIEval is a new benchmark designed to assess foundation models in human-centric
 
 
