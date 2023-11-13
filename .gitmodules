@@ -126,3 +126,6 @@
 [submodule "autotrain-advanced"]
 	path = autotrain-advanced
 	url = https://github.com/huggingface/autotrain-advanced
+[submodule "alignment-handbook"]
+	path = alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
