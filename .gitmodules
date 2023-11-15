@@ -80,7 +80,7 @@
 	url = https://github.com/OpenAccess-AI-Collective/axolotl.git
 [submodule "flash-attention"]
 	path = flash-attention
-    url = https://github.com/HazyResearch/flash-attention
+	url = https://github.com/Dao-AILab/flash-attention.git
 [submodule "LLM-eval-survey"]
 	path = LLM-eval-survey
         url = https://github.com/MLGroupJLU/LLM-eval-survey
@@ -138,3 +138,15 @@
 [submodule "LLMDataHub"]
 	path = LLMDataHub
 	url = https://github.com/Zjh-819/LLMDataHub
+[submodule "attention_sinks"]
+	path = attention_sinks
+	url = https://github.com/tomaarsen/attention_sinks.git
+[submodule "Qwen-VL"]
+	path = Qwen-VL
+	url = https://github.com/QwenLM/Qwen-VL.git
+[submodule "Awesome-Multimodal-Large-Language-Models"]
+	path = Awesome-Multimodal-Large-Language-Models
+	url = https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models.git
+[submodule "Chinese-LLaMA-Alpac"]
+	path = Chinese-LLaMA-Alpac
+	url = https://github.com/ymcui/Chinese-LLaMA-Alpaca.git
