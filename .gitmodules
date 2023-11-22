@@ -150,3 +150,6 @@
 [submodule "Chinese-LLaMA-Alpac"]
 	path = Chinese-LLaMA-Alpac
 	url = https://github.com/ymcui/Chinese-LLaMA-Alpaca.git
+[submodule "Video-LLaVA"]
+	path = Video-LLaVA
+	url = https://github.com/PKU-YuanGroup/Video-LLaVA.git
