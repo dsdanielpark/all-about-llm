@@ -39,6 +39,7 @@
 	url = https://github.com/huggingface/transformers.git
 [submodule "hf-transllm"]
 	path = hf-transllm
+	url = https://github.com/dsdanielpark/hf-transllm.git
 [submodule "PaLM"]
 	path = PaLM
 	url = https://github.com/conceptofmind/PaLM.git
