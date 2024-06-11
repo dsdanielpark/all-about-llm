@@ -27,6 +27,7 @@ This repository contains only some of the models required for _personal_ researc
 $ git clone https://github.com/dsdanielpark/all-about-llm.git
 $ cd all-about-llm
 $ git submodule update --init --recursive
+$ python syncfolk_submodules.py
 ```
 
 ## Leaderboards
